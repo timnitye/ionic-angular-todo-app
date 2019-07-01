@@ -7,3 +7,4 @@ npm install
 ## Start server
 ionic serve
 
+- http://localhost:8100
